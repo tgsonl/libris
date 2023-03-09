@@ -1,7 +1,7 @@
-##libris
+## *libris*
 
 
-Libris is primarily a broad and ongoing project with inexorable scope creep that serves as a training ground for honing my skills in Javascript and general web technology.
+Libris is primarily a broad and ongoing project with inexorable scope creep that serves as a training ground for honing my skills in Javascript, React and other web technologies.
 
 Secondarily, it is the kernel of a product I believe in;
 - a kind of combination of [Calibre](https://calibre-ebook.com/) and [Goodreads](https://www.goodreads.com/) 
